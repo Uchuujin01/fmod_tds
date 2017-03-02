@@ -12,7 +12,7 @@
     <object class="GroupTrack" id="{8ca35b8d-97b4-42b7-abae-2dcb3e556792}"/>
     <object class="Timeline" id="{f5936140-44ee-41f0-8f05-282549935943}">
         <property name="cursorPosition">
-            <value>0</value>
+            <value>0.00022679844023127605</value>
         </property>
         <property name="uiLastRulerScaleRatio">
             <value>0.00022679844023127605</value>
@@ -29,9 +29,6 @@
         <property name="uiModulationDrawerVisible">
             <value>true</value>
         </property>
-        <property name="uiTriggerBehaviorDrawerVisible">
-            <value>true</value>
-        </property>
     </object>
     <object class="EventMixerGroup" id="{4dc899b4-1e3d-41da-bab0-e833feed637b}"/>
     <object class="MixerBusEffectChain" id="{6859c0d5-5b19-4f91-9089-d6f00f5b6824}"/>
@@ -44,4 +41,12 @@
     <object class="SpatialiserEffect" id="{51f8386d-dd00-4e4a-8848-f2b18664dfa0}"/>
     <object class="CompressorEffect" id="{efef219d-9f0a-4cf1-8922-454e7d5bd062}"/>
     <object class="MixerBusFader" id="{70752a9d-d341-4190-a835-618ff8116bd2}"/>
+    <object class="ThreeEQEffect" id="{41d83dc5-ebd4-434b-8c5c-d868aa25c62b}">
+        <property name="uiModulationDrawerVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="RandomizerModulator" id="{223697f1-8dab-488e-a06f-b3b274616b28}"/>
+    <object class="RandomizerModulator" id="{9dc908e9-367c-4a64-b721-427ae2f3f3bd}"/>
+    <object class="RandomizerModulator" id="{ff99a81d-4f36-45dd-a53d-9ea98ba269a2}"/>
 </objects>

@@ -108,6 +108,9 @@
         </relationship>
     </object>
     <object class="EventMixerGroup" id="{b41a7f52-a014-47cf-bb14-d617c6458a36}">
+        <property name="volume">
+            <value>-3</value>
+        </property>
         <property name="name">
             <value>Audio 1</value>
         </property>
@@ -156,6 +159,7 @@
         <relationship name="effects">
             <destination>{5f4f223a-5aa6-4968-8ccc-17f47db6a036}</destination>
             <destination>{ba92fc2f-3802-40b9-b07f-b4ddb6a81748}</destination>
+            <destination>{160b6811-b454-45fa-8448-96fcc63f8f67}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{36be96a3-64f2-41a9-8184-7caab4b9f41a}"/>
@@ -173,4 +177,17 @@
         </property>
     </object>
     <object class="MixerBusFader" id="{ba92fc2f-3802-40b9-b07f-b4ddb6a81748}"/>
+    <object class="ThreeEQEffect" id="{160b6811-b454-45fa-8448-96fcc63f8f67}">
+        <relationship name="modulators">
+            <destination>{23b07cf1-9556-441d-a035-b8ed2db6f299}</destination>
+        </relationship>
+    </object>
+    <object class="RandomizerModulator" id="{23b07cf1-9556-441d-a035-b8ed2db6f299}">
+        <property name="nameOfPropertyBeingModulated">
+            <value>highGain</value>
+        </property>
+        <property name="amount">
+            <value>10</value>
+        </property>
+    </object>
 </objects>

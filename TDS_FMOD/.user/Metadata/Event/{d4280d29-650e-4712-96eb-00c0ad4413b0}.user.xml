@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.09.00">
     <object class="Event" id="{d4280d29-650e-4712-96eb-00c0ad4413b0}">
         <relationship name="selectables">
-            <destination>{08efea14-1d9f-46a2-b903-f8e74344aa03}</destination>
+            <destination>{27b253aa-cbcf-4361-8c29-550133b52752}</destination>
         </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{b20ebac9-5c42-48c1-ba10-12c79e9fbfaa}</destination>
@@ -47,4 +47,10 @@
     <object class="SpatialiserEffect" id="{1eec6dad-08a0-423f-96bd-834f0c9a4957}"/>
     <object class="CompressorEffect" id="{5f4f223a-5aa6-4968-8ccc-17f47db6a036}"/>
     <object class="MixerBusFader" id="{ba92fc2f-3802-40b9-b07f-b4ddb6a81748}"/>
+    <object class="ThreeEQEffect" id="{160b6811-b454-45fa-8448-96fcc63f8f67}">
+        <property name="uiModulationDrawerVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="RandomizerModulator" id="{23b07cf1-9556-441d-a035-b8ed2db6f299}"/>
 </objects>
