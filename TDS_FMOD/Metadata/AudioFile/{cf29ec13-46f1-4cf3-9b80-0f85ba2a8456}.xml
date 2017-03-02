@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{cf29ec13-46f1-4cf3-9b80-0f85ba2a8456}">
+        <property name="assetPath">
+            <value>12 - space. ship space sh.L.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>58.816000000000003</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a5e16cc9-b066-4f97-b859-8f5e93904ea0}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{9510d3a7-c6bf-49ff-8674-2f92759450a0}">
+        <property name="assetPath">
+            <value>Heavy_1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>8</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a5e16cc9-b066-4f97-b859-8f5e93904ea0}</destination>
+        </relationship>
+    </object>
+</objects>
