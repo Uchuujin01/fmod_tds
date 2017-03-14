@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.09.00">
     <object class="Event" id="{db8ba24b-bda8-42bc-a61d-44c2c6a57ced}">
-        <relationship name="selectables">
-            <destination>{db33744b-22b7-4315-8004-7b108d7b880d}</destination>
-        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{73d3e188-5ce4-4ac1-9dc0-15b89f8b34eb}</destination>
         </relationship>
@@ -41,13 +38,13 @@
     <object class="GroupTrack" id="{0358b219-051f-4e5b-9786-e2636cf5f235}"/>
     <object class="Timeline" id="{73d3e188-5ce4-4ac1-9dc0-15b89f8b34eb}">
         <property name="cursorPosition">
-            <value>17.457020246478873</value>
+            <value>0</value>
         </property>
         <property name="uiLastRulerScaleRatio">
-            <value>0.00022144586267605631</value>
+            <value>0.056690140845070416</value>
         </property>
         <property name="uiLastHorizontalScrollBarValue">
-            <value>78682</value>
+            <value>495</value>
         </property>
     </object>
     <object class="GameParameter" id="{6282febb-fb33-4755-aa87-96c45701a6ba}">
@@ -63,24 +60,21 @@
     </object>
     <object class="GameParameter" id="{0cfe2e94-adab-4a38-819a-278707e67472}">
         <property name="cursorPosition">
-            <value>36</value>
+            <value>73</value>
         </property>
         <property name="uiLastRulerScaleRatio">
             <value>0.0046296296296296294</value>
         </property>
         <property name="uiLastHorizontalScrollBarValue">
-            <value>7462</value>
+            <value>15454</value>
         </property>
     </object>
     <object class="GameParameter" id="{b53c3712-fff4-42b5-8eb3-2e2fd0f28f12}">
         <property name="cursorPosition">
-            <value>100</value>
+            <value>70</value>
         </property>
         <property name="uiLastRulerScaleRatio">
             <value>0.15673981191222572</value>
-        </property>
-        <property name="uiLastHorizontalScrollBarValue">
-            <value>11</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{87d13bbb-09bb-4413-ade4-a234691c2e34}">
@@ -204,6 +198,7 @@
     <object class="MixerBusFader" id="{1698fa5c-41c4-4684-9417-a3fa8cbafe65}"/>
     <object class="SpatialiserEffect" id="{ed89fe5d-16b0-4a12-94d7-e2c7744fbdfb}"/>
     <object class="ThreeEQEffect" id="{bd60f7e5-7341-4657-879d-7cb0e76930b4}"/>
+    <object class="CompressorEffect" id="{53dd07d0-3bb2-4567-937f-e37b29b69e86}"/>
     <object class="MixerBusFader" id="{48f0d9cf-33b6-45e2-83b0-bf023004f7dc}"/>
     <object class="MixerBusFader" id="{7a7cad06-6bd5-4172-af75-9e1aab6ed7c9}"/>
     <object class="LowpassEffect" id="{a45252c2-9a8d-4482-876a-894d97ca1488}"/>

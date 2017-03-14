@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{acef921b-3c39-4986-b5e1-1c0c9b8b3f16}"/>
+    <object class="EventAutomatableProperties" id="{00b14b63-d50c-4a6b-9788-a54e6eb8fe39}"/>
+    <object class="MarkerTrack" id="{e286293f-888f-48c1-b70e-eba4d81a8441}"/>
+    <object class="Timeline" id="{9de1e554-11f4-41d3-a14c-a90a97fef166}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.079155672823219003</value>
+        </property>
+    </object>
+    <object class="SnapshotMasterTrack" id="{8dfa5a6b-629c-4806-8c0f-f0c26d96c731}"/>
+    <object class="SnapshotProperty" id="{25237f62-b9d2-43f7-bff1-217f4e5a33dc}"/>
+    <object class="SnapshotProperty" id="{153683f0-2bac-4249-afdd-8671941ed1c7}"/>
+    <object class="SnapshotProperty" id="{df7c400e-6fcd-469a-be37-c611708eef3e}"/>
+    <object class="SnapshotProperty" id="{85022af0-3f96-42da-b092-ae5dab7ec51c}"/>
+    <object class="SnapshotProperty" id="{44b7f0db-6409-4021-aee2-861931b9b4ee}"/>
+    <object class="SnapshotProperty" id="{1d9ec0c7-4f21-4cb7-8415-d36feea161f2}"/>
+    <object class="SnapshotProperty" id="{26b3ca10-1bd2-47ac-af1f-4907651aa6fd}"/>
+    <object class="SnapshotProperty" id="{287e36ec-7a17-4db3-ab17-72c4c74ba793}"/>
+    <object class="SnapshotProperty" id="{cdfa8ab2-a137-4c1b-ab48-91545e152ce5}"/>
+    <object class="SnapshotProperty" id="{d0521f32-f66d-4f99-a1dc-3f6f985ff5f4}"/>
+    <object class="SnapshotProperty" id="{2139761f-27e9-4f8d-ab5e-0e9dedf9ef81}"/>
+    <object class="SnapshotProperty" id="{a958d4cd-a4e9-4b16-acef-eed92af2d985}"/>
+    <object class="SnapshotProperty" id="{1c9255ce-475e-4f83-9852-17b06195cb1d}"/>
+    <object class="SnapshotProperty" id="{c2e4610a-47be-402d-941a-e48ae141a049}"/>
+    <object class="SnapshotProperty" id="{cd661111-9ef6-49a3-8b2a-931f57d693d1}"/>
+    <object class="SnapshotProperty" id="{eb894b1b-a331-4086-807c-e5b5ebac0455}"/>
+    <object class="SnapshotProperty" id="{de23e7ca-a232-4f70-91e3-5de0e7cf1e5c}"/>
+    <object class="SnapshotTrack" id="{133c5d7c-aafb-4f09-bd5f-b8fb040d5735}"/>
+    <object class="SnapshotTrack" id="{fe82e074-a854-4f49-8294-7d5ae7d63a6d}"/>
+    <object class="SnapshotTrack" id="{5b003ec2-ecd5-49ec-b9db-88f041a3d58e}"/>
+</objects>
