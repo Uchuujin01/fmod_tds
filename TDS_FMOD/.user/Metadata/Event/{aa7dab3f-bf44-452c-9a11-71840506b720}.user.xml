@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.09.00">
     <object class="Event" id="{aa7dab3f-bf44-452c-9a11-71840506b720}">
+        <relationship name="selectables">
+            <destination>{e59b6d73-f154-46c7-a705-8bf3546a1a0d}</destination>
+        </relationship>
         <relationship name="uiLastParameterSelection">
             <destination>{df665345-fec8-49d8-ae62-b3b9c3e7553c}</destination>
         </relationship>
@@ -16,7 +19,7 @@
             <value>0</value>
         </property>
         <property name="uiLastRulerScaleRatio">
-            <value>0.00062549003481645964</value>
+            <value>7.8186254352057455e-05</value>
         </property>
     </object>
     <object class="EventMixerMaster" id="{850cdee4-e915-4635-ad97-80f533032367}">
@@ -27,11 +30,7 @@
     </object>
     <object class="MixerBusEffectChain" id="{eed3bbb4-58a9-4d7f-abdc-23bf5ac696d1}"/>
     <object class="MixerBusPanner" id="{0da25fb3-3df5-4b13-b458-0d1cc2c89d9c}"/>
-    <object class="MultiSound" id="{1482a931-3454-46db-affe-2b47e8cbf149}">
-        <property name="uiModulationDrawerVisible">
-            <value>true</value>
-        </property>
-    </object>
+    <object class="MultiSound" id="{1482a931-3454-46db-affe-2b47e8cbf149}"/>
     <object class="EventMixerGroup" id="{a0a62d35-a211-4dd1-911f-6549e654ee27}"/>
     <object class="SingleSound" id="{b6a3267c-70ec-4458-8d74-ab320eb02b94}">
         <property name="uiModulationDrawerVisible">
@@ -42,12 +41,15 @@
         <property name="uiModulationDrawerVisible">
             <value>true</value>
         </property>
+        <property name="uiTriggerBehaviorDrawerVisible">
+            <value>true</value>
+        </property>
     </object>
     <object class="EventMixerGroup" id="{58feb1bf-d364-445f-9b0d-f9bf80c87dbe}"/>
     <object class="MixerBusEffectChain" id="{a6a6d602-55ff-4f13-8976-c833451ee7b9}"/>
     <object class="MixerBusPanner" id="{ad8f7d4e-1df9-47f7-ba0b-933efd4481b0}"/>
     <object class="MixerBusFader" id="{80faac7e-523c-434a-93c7-ee6b15ed0c2e}"/>
-    <object class="RandomizerModulator" id="{ecf5cbd3-aeb2-4f9d-a91a-c9ac1c15d054}"/>
+    <object class="RandomizerModulator" id="{eb0edd04-2bc9-4728-abc0-49ef519b721a}"/>
     <object class="SingleSound" id="{c8622ef4-1951-4778-981b-358770901402}"/>
     <object class="SingleSound" id="{fd44c62a-b693-41ea-9b6d-4afc4c20f89e}"/>
     <object class="SingleSound" id="{8b229feb-1852-48e4-922c-6386c026e709}"/>

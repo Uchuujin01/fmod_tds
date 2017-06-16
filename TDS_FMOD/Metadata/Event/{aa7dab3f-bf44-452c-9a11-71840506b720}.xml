@@ -136,7 +136,7 @@
     </object>
     <object class="SingleSound" id="{b6a3267c-70ec-4458-8d74-ab320eb02b94}">
         <property name="start">
-            <value>0.15625</value>
+            <value>0.157</value>
         </property>
         <property name="length">
             <value>0.15867063492063493</value>
@@ -155,8 +155,17 @@
         </relationship>
     </object>
     <object class="SingleSound" id="{d76b88dc-d96b-4d29-8e75-d6e177395ba3}">
+        <property name="start">
+            <value>0.00074999999999987837</value>
+        </property>
         <property name="length">
             <value>0.15625</value>
+        </property>
+        <property name="delayType">
+            <value>0</value>
+        </property>
+        <property name="maximumTimeDelay">
+            <value>140</value>
         </property>
         <property name="looping">
             <value>true</value>
@@ -170,7 +179,7 @@
     </object>
     <object class="EventMixerGroup" id="{58feb1bf-d364-445f-9b0d-f9bf80c87dbe}">
         <property name="volume">
-            <value>-22.5</value>
+            <value>-27</value>
         </property>
         <property name="name">
             <value>Audio 2</value>
